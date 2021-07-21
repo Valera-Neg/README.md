@@ -10,7 +10,5 @@ This repository contains all of the notes taken by [Valera](https://github.com/V
 * [Week 1](/mnt/c/lighthouse/lighthouse-web-notice/Week_1)
   * [Day 1](/mnt/c/lighthouse/lighthouse-web-notice/Week_1/Day_1)
 
-1. Item One
-2. Item Two
-3. Item Three
+
 
