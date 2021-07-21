@@ -4,3 +4,8 @@
 ## Summaty
 
 This repository contains all of the notes taken by Valera for the Lighthouse Labs Web Development Bootcamp.
+
+[Valera](https://github.com/Valera-Neg)
+
+[Lighthouse Labs](https://github.com/orgs/lighthouse-labs/dashboard)
+
