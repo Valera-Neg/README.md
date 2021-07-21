@@ -7,8 +7,8 @@ This repository contains all of the notes taken by [Valera](https://github.com/V
 
 ## Table Of Contents
 
-* [Week 1](/mnt/c/lighthouse/lighthouse-web-notice/Week_1)
-  * [Day 1](/mnt/c/lighthouse/lighthouse-web-notice/Week_1/Day_1)
+* [Week 1](https://github.com/Valera-Neg/README.md/tree/master/Week_1)
+  * [Day 1](https://github.com/Valera-Neg/README.md/tree/master/Week_1/Day_1)
 
 
 
