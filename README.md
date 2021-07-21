@@ -5,5 +5,12 @@
 
 This repository contains all of the notes taken by [Valera](https://github.com/Valera-Neg) for the [Lighthouse Labs](https://github.com/orgs/lighthouse-labs/dashboard) Web Development Bootcamp.
 
+## Table Of Contents
 
+* [Week 1](/mnt/c/lighthouse/lighthouse-web-notice/Week_1)
+  * [Day 1](/mnt/c/lighthouse/lighthouse-web-notice/Week_1/Day_1)
+
+1. Item One
+2. Item Two
+3. Item Three
 
